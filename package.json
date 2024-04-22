@@ -1,0 +1,19 @@
+{
+  "name": "ap2024",
+  "version": "1.0.0",
+  "description": "curso dw-4",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "author": "Lautaro Nuñez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.0"
+  }
+}
